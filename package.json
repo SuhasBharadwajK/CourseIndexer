@@ -1,0 +1,20 @@
+{
+  "name": "coursepuller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jsdom": "^12.2.0",
+    "axios": "^0.18.0",
+    "documentdb": "^1.15.0",
+    "documentdb-typescript": "^1.0.7",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.1.0",
+    "typescript": "^3.2.2"
+  }
+}
